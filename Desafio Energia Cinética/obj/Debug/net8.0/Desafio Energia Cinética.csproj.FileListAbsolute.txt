@@ -1,0 +1,14 @@
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\bin\Debug\net8.0\Desafio Energia Cinética.exe
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\bin\Debug\net8.0\Desafio Energia Cinética.deps.json
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\bin\Debug\net8.0\Desafio Energia Cinética.runtimeconfig.json
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\bin\Debug\net8.0\Desafio Energia Cinética.dll
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\bin\Debug\net8.0\Desafio Energia Cinética.pdb
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.AssemblyInfo.cs
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.dll
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\refint\Desafio Energia Cinética.dll
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.pdb
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\Desafio Energia Cinética.genruntimeconfig.cache
+C:\Users\User\Documents\Programas\C# Console\Desafio Energia Cinética\Desafio Energia Cinética\obj\Debug\net8.0\ref\Desafio Energia Cinética.dll
